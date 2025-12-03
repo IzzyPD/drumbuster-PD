@@ -7,7 +7,7 @@ Startup instructions:
 
 1. Ensure PureData v.0.55.2 has been installed prior to use. PureData can be downloaded for free from Miller Puckette's website: https://puredata.info/
 2. Ensure your audio outputs are configured correctly and your DSP (located under the "media" tab in the ribbon) is toggled to the "On" position.
-3. Upon opening the patch, you may use the small white buttons (or "bangs") below the drumbusterArrays to open a file-loading panel. From here, select up to four audio samples. NOTE: drumbuster functions best with samples no longer than a couple of seconds.
+3. Upon opening the patch, you may use the small white buttons (or "bangs") below the drumbusterArrays to open a file-loading panel. From here, select up to four audio samples. MSC-DL-909 drum machine samples are included in the main branch. NOTE: drumbuster functions best with samples no longer than a couple of seconds.
 
 Drum Sequencer:
 There are 4 16-step sequencers that correspond to each of the drumbusterArray samples. By clicking the white squares, you can create rhythmic patterns. You can click and drag the number box to the right of the sequencers to enter your BPM information. To start the drum sequencer, click the green "start" button. To stop it, click the red "stop" button. Presets: (16s - every 16th note; 8s - every 8th note; I 8s - every other 8th note; 4s - four on the floor; CLEAR - clears the pattern; unlabelled - random sequence.)
